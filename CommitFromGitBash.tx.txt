@@ -1,1 +1,0 @@
-This is committed from Git Bash
